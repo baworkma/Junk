@@ -3,9 +3,8 @@
 #From Ch. 4.8 in Machlis:
 #‘Scrape’ data from Web pages with the rvest package 
 #and SelectorGadget browser extension or JavaScript bookmarklet. 
-#
-#SelectorGadget helps you discover the CSS elements of data you want to copy 
-#that are on an HTML page; then rvest uses R to find and save that data. 
+#Spring is awesome
+#And I can't talk about the NYT
 #Instructions and a video: http://bit.ly/Rscraping. 
 #RStudio webinar: https://www.rstudio.com/resources/webinars/extracting-data-from-the-web-part-2/ .
 
